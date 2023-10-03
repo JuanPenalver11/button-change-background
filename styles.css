@@ -1,0 +1,16 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+.btn{
+    height: 50px;
+    width: 150px;
+    font-size: 1.2rem;
+    border-radius: 10px;
+
+    box-shadow: 0 0 3px;
+}
